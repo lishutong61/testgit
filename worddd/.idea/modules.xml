@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculate/calculate.iml" filepath="$PROJECT_DIR$/calculate/calculate.iml" />
+      <module fileurl="file://C:\Users\Administrator\AndroidStudioProjects\worddd\myWords.iml" filepath="C:\Users\Administrator\AndroidStudioProjects\worddd\myWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worddd.iml" filepath="$PROJECT_DIR$/worddd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workup/workup.iml" filepath="$PROJECT_DIR$/workup/workup.iml" />
+    </modules>
+  </component>
+</project>
